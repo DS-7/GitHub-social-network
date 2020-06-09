@@ -1,0 +1,1 @@
+Data obtained on 17:22, 11.12.2019 from http://snap.stanford.edu/data/github-social.html
